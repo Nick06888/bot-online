@@ -8,7 +8,7 @@ module.exports = {
     },
 
     discord: {
-        token: 'ODE0NjA0NjIwNjYzNDg4NTUz.YDgRrA.EAuuycjG13p0iwj4eVg-92NvSKg',
+        token: 'ODE0NjA0NjIwNjYzNDg4NTUz.YDgRrA.fRT3xt-OTijBpGM4Z_1CFoRVHp4',
         prefix: '*',
         activity: 'By Nick134#1479',
     },
